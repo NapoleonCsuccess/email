@@ -1,0 +1,1 @@
+popservername = 'pop.qq.com'
